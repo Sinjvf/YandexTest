@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name" translatable="false">TestFromSinjvf</string>
+
+    <string name="album">album</string>
+    <string name="track">track</string>
+    <string name="biography">Biography</string>
+    <string name="artists">Artists</string>
+    <string name="link">Link:</string>
+
+
+    <string name="url_json" translatable="false">"https://cache-default06g.cdn.yandex.net/download.cdn.yandex.net/mobilization-2016/artists.json"</string>
+
+    <plurals name="albums">
+        <item quantity="zero">no albums</item>
+        <item quantity="one">one album</item>
+        <item quantity="other">%1$d albums</item>
+    </plurals>
+
+
+    <plurals name="tracks">
+        <item quantity="zero">no tracks</item>
+        <item quantity="one">one track</item>
+        <item quantity="other">%1$d tracks</item>
+    </plurals>
+
+
+
+    <string name="ok">ok</string>
+    <string name="file_output" translatable="false">file_output.txt</string>
+
+
+    <string name="require_int">Internet connection is not detected. The downloaded data might be outdated.
+Connect to the Internet for giving current data.</string>
+
+
+
+</resources>
